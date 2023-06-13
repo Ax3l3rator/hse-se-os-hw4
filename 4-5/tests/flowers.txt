@@ -1,0 +1,108 @@
+Choosing 14 times to wither
+Flower 2 is dying
+Flower 3 is dying
+Flower 6 is dying
+Flower 9 is dying
+Flower 10 is dying
+Flower 12 is dying
+Flower 15 is dying
+Flower 17 is dying
+Flower 19 is dying
+Flower 21 is dying
+Flower 26 is dying
+Flower 27 is dying
+Flower 33 is dying
+Flower 35 is dying
+Flower 2 is being watered
+Flower 3 is being watered
+[Flowerbed] Flower 2 is watered
+Flower 6 is being watered
+[Flowerbed] Flower 3 is watered
+Flower 15 is being watered
+[Flowerbed] Flower 6 is watered
+Flower 9 is being watered
+[Flowerbed] Flower 15 is watered
+Flower 17 is being watered
+[Flowerbed] Flower 9 is watered
+Flower 10 is being watered
+[Flowerbed] Flower 17 is watered
+Flower 26 is being watered
+[Flowerbed] Flower 10 is watered
+Flower 12 is being watered
+[Flowerbed] Flower 26 is watered
+Flower 33 is being watered
+[Flowerbed] Flower 12 is watered
+Flower 19 is being watered
+[Flowerbed] Flower 33 is watered
+[Flowerbed] Flower 19 is watered
+Flower 21 is being watered
+[Flowerbed] Flower 21 is watered
+Flower 27 is being watered
+[Flowerbed] Flower 27 is watered
+Flower 35 is being watered
+[Flowerbed] Flower 35 is watered
+Choosing 2 times to wither
+Flower 20 is dying
+Flower 26 is dying
+Flower 20 is being watered
+Flower 26 is being watered
+[Flowerbed] Flower 20 is watered
+[Flowerbed] Flower 26 is watered
+Choosing 8 times to wither
+Flower 7 is dying
+Flower 8 is dying
+Flower 10 is dying
+Flower 11 is dying
+Flower 16 is dying
+Flower 22 is dying
+Flower 29 is dying
+Flower 7 is being watered
+Flower 16 is being watered
+[Flowerbed] Flower 7 is watered
+Flower 8 is being watered
+[Flowerbed] Flower 16 is watered
+Flower 29 is being watered
+[Flowerbed] Flower 8 is watered
+Flower 10 is being watered
+[Flowerbed] Flower 29 is watered
+[Flowerbed] Flower 10 is watered
+Flower 11 is being watered
+[Flowerbed] Flower 11 is watered
+Flower 22 is being watered
+[Flowerbed] Flower 22 is watered
+Choosing 14 times to wither
+Flower 2 is dying
+Flower 7 is dying
+Flower 9 is dying
+Flower 11 is dying
+Flower 13 is dying
+Flower 15 is dying
+Flower 16 is dying
+Flower 18 is dying
+Flower 22 is dying
+Flower 27 is dying
+Flower 29 is dying
+Flower 33 is dying
+Flower 2 is being watered
+Flower 7 is being watered
+[Flowerbed] Flower 2 is watered
+Flower 13 is being watered
+[Flowerbed] Flower 7 is watered
+Flower 9 is being watered
+[Flowerbed] Flower 13 is watered
+Flower 15 is being watered
+[Flowerbed] Flower 9 is watered
+Flower 11 is being watered
+[Flowerbed] Flower 15 is watered
+Flower 16 is being watered
+[Flowerbed] Flower 11 is watered
+Flower 22 is being watered
+[Flowerbed] Flower 16 is watered
+Flower 18 is being watered
+[Flowerbed] Flower 22 is watered
+Flower 27 is being watered
+[Flowerbed] Flower 18 is watered
+Flower 33 is being watered
+[Flowerbed] Flower 27 is watered
+Flower 29 is being watered
+[Flowerbed] Flower 29 is watered
